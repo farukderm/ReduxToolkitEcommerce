@@ -1,9 +1,22 @@
-# React + Vite
+# E-commerce Sitesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu E-commerce sitesi, **React** ve **Redux Toolkit** kullanılarak geliştirilmiş bir alışveriş platformudur. Proje, kullanıcıların çeşitli ürün kategorilerini görüntüleyebilmesini, ürünleri fiyatlarına göre sıralayabilmesini, ürün detaylarına göz atabilmesini ve ürünleri sepete ekleyebilmesini sağlar. Ek olarak, **React-slick** ile bir slider bileşeni de eklenmiştir.
 
-Currently, two official plugins are available:
+## Proje Özellikleri
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# ReduxToolkitEcommerce
+- **Ana Sayfa Slider:** Sayfada **React Slick** kullanılarak oluşturulmuş dinamik bir slider.
+- **Ürün Listeleme:** Ürünleri kategoriye göre listeleme imkanı.
+- **Kategori Bazlı Filtreleme:** Seçilen kategoriye göre ürünleri filtreleme.
+- **Ürün Detayları:** Ürünlere tıklayarak detaylı bilgilerini görüntüleyebilme.
+- **Sepete Ekleme:** İlgili ürünleri sepete ekleyebilme.
+- **Sepeti Görüntüleme:** Eklenen ürünlerin ve toplam fiyatın göründüğü sepet sayfası.
+- **Fiyata Göre Sıralama:** Ürünleri fiyatlarına göre sıralayarak listeleyebilme.
+
+## Kullanılan Teknolojiler
+
+- **React:** Kullanıcı arayüzü geliştirme.
+- **Redux Toolkit (React-Redux):** Global durum yönetimi.
+- **React Router:** Sayfalar arası yönlendirme.
+- **React Slick ve Slick-carousel:** Ana sayfada dinamik slider.
+- **React-icons:** Kullanıcı arayüzü simgeleri için.
+- **React Paginate:** Ürün listelemelerinde sayfalandırma.
