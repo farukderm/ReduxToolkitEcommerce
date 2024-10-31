@@ -1,4 +1,4 @@
-# E-commerce Sitesi
+#  Redux Toolkit ile E-commerce Sitesi
 
 Bu E-commerce sitesi, **React** ve **Redux Toolkit** kullanılarak geliştirilmiş bir alışveriş platformudur. Proje, kullanıcıların çeşitli ürün kategorilerini görüntüleyebilmesini, ürünleri fiyatlarına göre sıralayabilmesini, ürün detaylarına göz atabilmesini ve ürünleri sepete ekleyebilmesini sağlar. Ek olarak, **React-slick** ile bir slider bileşeni de eklenmiştir.
 
@@ -20,3 +20,7 @@ Bu E-commerce sitesi, **React** ve **Redux Toolkit** kullanılarak geliştirilmi
 - **React Slick ve Slick-carousel:** Ana sayfada dinamik slider.
 - **React-icons:** Kullanıcı arayüzü simgeleri için.
 - **React Paginate:** Ürün listelemelerinde sayfalandırma.
+
+
+https://github.com/user-attachments/assets/8c8a5da4-3a3a-4394-9129-9cd40d2d99f0
+
